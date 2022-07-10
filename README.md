@@ -1,31 +1,28 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147543-b337c977-cfa6-4089-8d81-00681b3180d2.png"></p>
 
 <div align="center">
-  <H1>Lost Earth</H1>
+  <H1>LightRunner</H1>
 </div>
 
 + ## **게임 개요**
   + ### 플랫폼
     + #### PC
   + ### 장르
-    + #### 2D 생존 탐험 게임
+    + #### 레이싱 게임
   + ### 개발에 사용한 엔진 및 언어 
     + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
 + ## **개발 개요**
   + ### 개발 기간
-    + #### 2020-10-15 ~ 2020-12-18
+    + #### 2022-06-23 ~ 2020-06-24
   + ### 개발 형태
-    + #### 팀 프로젝트
+    + #### 개인 프로젝트(게임잼)
   + ### 개발 인원 및 역할
-    + #### 상명대학교 게임학과 19학번 김다은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="프로그래머" src ="https://img.shields.io/badge/서브 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/서브 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 김리아 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/서브 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
-    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/메인 프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-    + #### 상명대학교 게임학과 19학번 전하은 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/><img alt="아트 디자이너" src ="https://img.shields.io/badge/메인 아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
+    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 + ## **게임 상세**
   + ### 스토리
-    + #### 2xxx년, 지구를 떠날 수밖에 없었던 인류가 정착한 다른 행성이 있다. 그러나 이 행성은 지상에서 살기에는 척박한 환경이라 지상의 위험요소를 피해 지하에 정착하게 되었다. <br><br>어느 날 주인공의 할머니가 실종되고, 할머니의 흔적을 쫓다 우주선의 존재를 알게 된다. 우주선이 할머니의 실종과 관계가 있다는 것을 눈치 챈 주인공을 이를 찾기 위해 지상으로 탐험을 떠난다.
+    + #### 집에서 사랑받는 한 애완닭이 거울을 보게 되었는데, 거울 속에서 손이 튀어나와 멀티버스 우주 세계로 끌려가게 된다. 그곳에는 이미 이 세계로 끌려온 많은 애완동물이 존재하였고, 이 애완동물들이 자신의 세계로 돌아가기 위해 경주를 하게 된다. 하지만 다른 동물들보다 느린 주인공은 우승을 차지할 수 없었고, 우승을 하기 위한 자신만의 기술을 찾아내게 된다. 거울을 이용해 길을 만드는 것으로 지름길을 만들어 다른 동물들을 앞지를 수 있게 되었다. 과연 주인공은 이 기술을 이용해 우승을 차지할 수 있을까?
   + ### 핵심 플레이
-    + #### 거주구역 바깥으로 가게 되면 지속적으로 산소 게이지가 줄어들고, 산소 게이지가 모두 줄어들거나 위험 구역으로 가게 되면 HP가 지속적으로 감소하게 된다. 산소 게이지는 맵 곳곳에 있는 산소 충전기 근처에서 충전할 수 있으며, HP는 탐색을 하며 얻는 식량으로 회복할 수 있다. HP가 모두 줄어들기 전에 맵에 있는 모든 스위치를 켜 우주선의 보호막을 해제하는 것이 목표이다.
+    + #### 이 게임은 주어지는 주제로 게임을 만드는 게임잼 대회에서 만든 게임으로, 주제는 <거울>, <동물>, <방패>이다. 거울은 게임의 핵심 시스템인 길을 만들어내는 시스템에 사용하였고, 이 게임의 캐릭터들을 동물로 설정하였으며, 마지막 골인 지점의 방패를 파괴하는 것을 목표로 설정하여 게임잼 주제를 모두 소재로 사용하였다. W, S 키로 전진, 후진을, A, D 키로 시야 회전을 할 수 있으며 Q, E 키를 통해 설치할 거울의 각도를 설정할 수 있다. 스페이스 바를 눌러 거울을 설치할 수 있고, 거울이 이미 설치되어 있으면 스페이스 바를 한 번 더 눌러 거울을 회수할 수 있다. 거울을 설치하는 것으로 길을 변형시켜 지름길을 만들어 다른 동물들을 제치고 골인 지점에 가장 먼저 도착하는 것이 목표이다.
   + ### 시연 영상
-    + #### [유튜브 링크](https://youtu.be/MulhF-B_Bl0)
-    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147577-0ba07b58-8d36-4bb7-b306-3291cb117f06.PNG)](https://youtu.be/MulhF-B_Bl0)
+    + #### [유튜브 링크](https://youtu.be/uObyyQYhWrE)
+    + #### [![Video Label](https://user-images.githubusercontent.com/69952837/178147577-0ba07b58-8d36-4bb7-b306-3291cb117f06.PNG)](https://youtu.be/uObyyQYhWrE)
