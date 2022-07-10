@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147543-b337c977-cfa6-4089-8d81-00681b3180d2.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178150581-42853934-60e8-4e9e-ad83-05fcf6acd1d5.png"></p>
 
 <div align="center">
   <H1>LightRunner</H1>
