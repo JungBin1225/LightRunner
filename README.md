@@ -10,7 +10,7 @@
   + ### 장르
     + #### 레이싱 게임
   + ### 개발에 사용한 엔진 및 언어 
-    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C sharp" src ="https://img.shields.io/badge/sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white"/>
+    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C sharp" src ="https://img.shields.io/badge/C sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white"/>
 + ## **개발 개요**
   + ### 개발 기간
     + #### 2022-06-23 ~ 2020-06-24
