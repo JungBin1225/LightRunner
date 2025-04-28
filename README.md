@@ -10,14 +10,14 @@
   + ### 장르
     + #### 레이싱 게임
   + ### 개발에 사용한 엔진 및 언어 
-    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
+    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C sharp" src ="https://img.shields.io/badge/C#-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white"/>
 + ## **개발 개요**
   + ### 개발 기간
     + #### 2022-06-23 ~ 2020-06-24
   + ### 개발 형태
     + #### 개인 프로젝트(게임잼)
   + ### 개발 인원 및 역할
-    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 상명대학교 게임학과 19학번 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/메인 프로그래머-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 + ## **게임 상세**
   + ### 스토리
     + #### 집에서 사랑받는 한 애완닭이 거울을 보게 되었는데, 거울 속에서 손이 튀어나와 멀티버스 우주 세계로 끌려가게 된다. 그곳에는 이미 이 세계로 끌려온 많은 애완동물이 존재하였고, 이 애완동물들이 자신의 세계로 돌아가기 위해 경주를 하게 된다. 하지만 다른 동물들보다 느린 주인공은 우승을 차지할 수 없었고, 우승을 하기 위한 자신만의 기술을 찾아내게 된다. 거울을 이용해 길을 만드는 것으로 지름길을 만들어 다른 동물들을 앞지를 수 있게 되었다. 과연 주인공은 이 기술을 이용해 우승을 차지할 수 있을까?
